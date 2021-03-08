@@ -35,20 +35,20 @@ form {
 }
 
 .labels {
-  display: inline-block;
-  text-align: right;
-  width: 45%;
-  padding: 5px;
-  vertical-align: top;
-  margin-top: 10px;
+	display: inline-block;
+	text-align: right;
+	width: 45%;
+	padding: 5px;
+	vertical-align: top;
+	margin-top: 10px;
 }
 
 .rightTab {
-  display: inline-block;
-  text-align: left;
-  width: 48%;
-  vertical-align: middle;
-  padding:8px;
+	display: inline-block;
+	text-align: left;
+	width: 48%;
+	vertical-align: middle;
+	padding:8px;
 }
 
 
