@@ -69,11 +69,11 @@ textarea {
 }
 
 input[type="radio"]{
-  margin: 12px 0px 0px 0px;
+  	margin: 12px 0px 0px 0px;
 }
 
 input[type="checkbox"]{
-  margin: 12px 0px 0px 0px;
+  	margin: 12px 0px 0px 0px;
 }
 
 input:invalid {
